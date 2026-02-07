@@ -1,16 +1,16 @@
-## Hi there 👋
+# 🚀 Front-end Portfolio — Kauã Calabró
 
-<!--
-**kauacalabro8-a11y/kauacalabro8-a11y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá! 👋  
+Meu nome é **Kauã Calabró** e este repositório reúne meus projetos front-end, onde pratico e aplico conceitos de desenvolvimento web, UI/UX e boas práticas.
 
-Here are some ideas to get you started:
+## 🧑‍💻 Sobre mim
+Sou desenvolvedor Front-end apaixonado por criar interfaces modernas, responsivas e funcionais. Estou sempre em busca de aprendizado contínuo e evolução na área de tecnologia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias utilizadas
+- HTML5
+- CSS3
+- JavaScript
+- Git & GitHub
+- (adicione aqui: React, Tailwind, Vue, etc.)
+
+## 📂 Estrutura do repositório
