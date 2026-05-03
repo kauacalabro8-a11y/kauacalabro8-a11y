@@ -1,30 +1,38 @@
 <div align="center">
 
-<!-- Header animado -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:22d3ee&height=200&section=header&text=Kauã%20Calabró&fontSize=40&fontColor=38bdf8&animation=fadeIn" />
+<!-- Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:22d3ee&height=200&section=header&text=Kauã%20Calabró&fontSize=42&fontColor=38bdf8&animation=fadeIn" />
 
-<!-- Texto digitando -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=500&lines=Estudante+de+ADS;C+Intermedi%C3%A1rio+%7C+Python+Iniciante;Construindo+minha+carreira+em+tecnologia" />
+<!-- Typing -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&lines=Estudante+de+ADS;C+Intermedi%C3%A1rio+%7C+Python+Iniciante;Evoluindo+na+programa%C3%A7%C3%A3o+todos+os+dias" />
 
 <br><br>
 
 ## 🧑‍💻 Sobre mim
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)**  
-Focado em evolução constante na área de programação.
-
-💡 Atualmente:
-- C — Intermediário  
-- Python — Iniciante  
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)**  
+💻 Focado em evolução constante na programação  
 
 ---
 
-## ⚡ Skills
+## ⚡ Linguagens
 
-<p>
-<img src="https://img.shields.io/badge/C-Intermediário-22d3ee?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-Iniciante-0f172a?style=for-the-badge&logo=python"/>
-</p>
+<div style="display: inline_block"><br>
+
+<img align="center" alt="C" height="60" width="60"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+
+<img align="center" alt="Python" height="60" width="60"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+
+</div>
+
+<br>
+
+### 📊 Nível
+
+- 🟦 C — Intermediário  
+- 🟨 Python — Iniciante  
 
 ---
 
@@ -41,10 +49,9 @@ Focado em evolução constante na área de programação.
 
 ## 🚀 Evolução
 
-📌 Foco atual:
-- Aprimorar lógica de programação  
-- Evoluir em Python  
-- Desenvolver projetos reais  
+- Aprimorando lógica de programação  
+- Evoluindo em Python  
+- Construindo projetos práticos  
 
 ---
 
